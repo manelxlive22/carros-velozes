@@ -9,7 +9,7 @@ function Home() {
                 <Link to="/cars">
                     <button className="brand-button">Conhecer!</button>
                 </Link>
-                <Link to="/bmw">
+              {/*   <Link to="/bmw">
                     <button className="brand-button">BMW</button>
                 </Link>
                 <Link to="/bugatti">
@@ -38,7 +38,7 @@ function Home() {
                 </Link> 
                 <Link to="/porsche">
                     <button className="brand-button">Porsche</button>
-                </Link> 
+                </Link>  */}
             </div>
         </div>
     );
